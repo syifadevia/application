@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">justJava</string>
+    <string name="thank_you">Terima Kasih</string>
+    <string name="toppings">Taburan</string>
+    <string name="quantity">Jumlah</string>
+</resources>
